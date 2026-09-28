@@ -1,0 +1,9 @@
+# Core Data Processing
+pandas>=2.2.0
+
+# Excel File Support (Required by pandas for .xlsx and .xls formats)
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# Testing Framework
+pytest>=8.0.0
